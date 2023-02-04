@@ -5,4 +5,4 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 [Link to assignment 0](Assignment_1_cs_4395_.pdf)
 
 #HW1
-[Link to assignment 1](homework1) [Link to assignment overview](hw1_gsa20000.pdf)
+[Link to assignment 1](homework1/hw1_gsa20000.py) [Link to assignment overview](hw1_gsa20000.pdf)
