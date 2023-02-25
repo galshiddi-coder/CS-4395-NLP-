@@ -9,3 +9,6 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 
 #HW2
 [Link to assignment 2](homework2/main.py) . To run the program you'd need to include this line in the parameter: anat19.txt
+
+#HW3
+[Link to assignment 3](WordNet_gsa20000.ipynb) . 
