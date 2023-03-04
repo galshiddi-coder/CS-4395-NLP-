@@ -12,3 +12,9 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 
 #HW3
 [Link to assignment 3](WordNet_gsa20000.ipynb) . 
+
+#HW4
+[Link to assignment 4 program 1](ngrams/program1.py) and [Link to assignment 4 program 2](ngrams/program2.py)
+
+#HW5
+[Link to assignment 5](sent_parsing.pdf)
