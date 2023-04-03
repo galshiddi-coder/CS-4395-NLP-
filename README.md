@@ -21,3 +21,6 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 
 #HW6
 [Link to assignment 6, Web Crawler](webCrawler/main.py) and [link to the report and chatbot dialog](Web_Crawler_Report.pdf)
+
+#HW7
+[Link to assignment 7, Text Classification ](TCassignment.ipynb)
