@@ -24,3 +24,6 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 
 #HW7
 [Link to assignment 7, Text Classification ](TCassignment.ipynb)
+
+#HW8
+[Link to assignment 8, ACL Paper Summary ](ACL_Paper_Summary_Ghaida_Alshiddi.pdf)
