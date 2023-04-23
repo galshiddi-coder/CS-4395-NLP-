@@ -30,3 +30,6 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 
 #Chatbot project
 [Link to the chatbot project code](Chatbot/main.py) [ Link to the chatbot report](Chatbot/Chatbot_Report.pdf)
+
+#HW9
+[Link to assignment 9](assignment8.pdf)
