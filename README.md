@@ -33,3 +33,11 @@ This repository will contain my projects and work for CS 4395 Human Language Tec
 
 #HW9
 [Link to assignment 9](assignment8.pdf)
+
+#HW10
+[Link to assignment 10, Portfolio wrap-up](FinalAssignment.pdf)
+
+
+#Summary
+
+I enjoyed this class because it introduced me and taught me about Natural Language Processing. I learned many NLP techniques, such as text processing and parsing, analyzing, training, and testing data and evaluating the results, which improved my knowledge and skills in NLP. My technical skills improved significantly after studying and working on NLP projects, as I have designed many programs that uses many NLP techniques, such as my Chatbot project and text classification assignments. Hence, I find NLP projects very interesting and I plan to do more work and projects regarding Natural Language Processing as it is a new and growing field that keeps developing and implementing new techniques to improve on the current NLP technologies. I also plan to attend and follow seminars and articles related to NLP and AI as I am very interested in this field and hope to work with NLP and AI technologies in my career.  
